@@ -1,0 +1,6 @@
+playwright>=1.44.0
+pandas>=2.2.2
+numpy>=1.26
+matplotlib>=3.9
+seaborn>=0.13       # purely for nicer EDA plots
+python-dotenv>=1.0
